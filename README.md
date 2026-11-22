@@ -51,7 +51,7 @@
 > [!WARNING]
 > **DO NOT download via the green `<> Code -> Download ZIP` button!** GitHub renames the folder to `DragonUI-main`, which prevents WoW from loading the addon properly.
 
-1. Go to the Latest Release page (`https://github.com/Bulbasaur-TwinStar/DragonUI/releases/tag/v2.6`) and download **`DragonUI-TwinStar.zip`** under **Assets**.
+1. Go to the Latest Release page: https://github.com/Bulbasaur-TwinStar/DragonUI/releases/tag/v2.6 and download **`DragonUI-TwinStar.zip`** under **Assets**.
 2. Extract the `.zip` archive.
 3. Delete any older `DragonUI` and `DragonUI_Options` folders inside `World of Warcraft\Interface\AddOns\` *(your saved profiles in the `WTF` folder will remain safe)*.
 4. Copy both **`DragonUI`** and **`DragonUI_Options`** folders directly into `World of Warcraft\Interface\AddOns\`.
