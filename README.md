@@ -6,19 +6,12 @@
 
 # 🐉 DragonUI v2.6 – TwinStar Edition (MoP 5.4.8 | Helios / Persés)
 
-Modern Retail **Dragonflight-style UI** adapted for **TwinStar WoW – Mists of Pandaria 5.4.8** [1.1].
-
-- **Original 3.3.5a Port:** EncarnacionDev (MIT License) 
-- **MoP 5.4.8 Fixes:** Bulbasaur of TwinStar 
+Modern **Dragonflight-style** user interface adapted for **TwinStar WoW – Mists of Pandaria 5.4.8** [1.1], originally ported by EncarnacionDev and fixed for MoP by Bulbasaur [1.1].
 
 ## ✨ Key Features & Commands
 
-- **Core & UI Fixes:** Updated `.toc` files, fixed MoP API calls, reputation tracking bars, and Guild Bank/Bagster interactions [1.1].
-- **Movable Elements:** Adjust Raid Frames and UI elements via `/dragonui edit` or `/lfgmove` [1.1].
-- **Commands:** Use `/dragonui` or `/dui` for configuration, `/dragonui edit` for editor mode, and `/lfgmove` for the LFG anchor [1.1].
+Includes updated `.toc` files, fixed MoP API calls, reputation tracking, and movable elements via commands like `/dragonui` and `/lfgmove` [1.1].
 
 ## 📥 Installation
 
-1. Download the archive directly via [GitHub](https://github.com) (avoid the generic green ZIP button) [1.1].
-2. Extract the files and replace older versions in your `World of Warcraft\Interface\AddOns\` directory [1.1].
-3. Restart the game client completely [1.1].
+Download the archive directly from [GitHub](https://github.com), extract it into your `World of Warcraft\Interface\AddOns\` folder, and restart your game client [1.1].
