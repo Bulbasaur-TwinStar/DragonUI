@@ -8,8 +8,8 @@
 
 Modern Retail **Dragonflight-style UI** adapted for **TwinStar WoW – Mists of Pandaria 5.4.8** [1.1].
 
-- **Original 3.3.5a Port:** EncarnacionDev (MIT License) [1.1]
-- **MoP 5.4.8 Fixes:** Bulbasaur of TwinStar [1.1]
+- **Original 3.3.5a Port:** EncarnacionDev (MIT License) 
+- **MoP 5.4.8 Fixes:** Bulbasaur of TwinStar 
 
 ## ✨ Key Features & Commands
 
