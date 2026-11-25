@@ -1,5 +1,5 @@
-<img width="4096" height="2160" alt="1" src="https://github.com/user-attachments/assets/d63dee95-0c58-46d4-a2b2-c797cf6261aa" />
-<img width="4096" height="2160" alt="2" src="https://github.com/user-attachments/assets/3709dcd0-7b42-4c62-abed-a495f15b4e08" />
+<img width="4096" height="2160" alt="dragonui_v27_screen_1" src="https://github.com/user-attachments/assets/3ddcd64c-f285-49ca-ab3f-b5b3bdb8af00" />
+<img width="4096" height="2160" alt="dragonui_v27_screen_2" src="https://github.com/user-attachments/assets/f72b96d0-d722-4909-ab47-5fdc9c04708f" />
 <img width="4096" height="2160" alt="3" src="https://github.com/user-attachments/assets/9f6208b9-833e-4f65-b33c-1b326ae2c52d" />
 
 # 🐉 DragonUI v2.7 – TwinStar Edition (MoP 5.4.8 | Helios / Persés)
