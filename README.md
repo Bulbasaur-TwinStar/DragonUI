@@ -18,6 +18,6 @@
 * `/lfgmove` – Reposition the LFG/RDF minimap eye
 
 ## 📥 Installation
-1. Download **`DragonUI-TwinStar.zip`** from the [Releases page]https://github.com/Bulbasaur-TwinStar/DragonUI/releases/tag/v2.7( *(do not use the green GitHub ZIP button)*.
+1. Download **`DragonUI-TwinStar.zip`** from the [Releases page]( *(https://github.com/Bulbasaur-TwinStar/DragonUI/releases/tag/v2.7)*.
 2. Extract and replace `DragonUI` and `DragonUI_Options` in `World of Warcraft\Interface\AddOns\`.
 3. **Restart your game client completely.**
