@@ -2,7 +2,7 @@
 <img width="4096" height="2160" alt="2" src="https://github.com/user-attachments/assets/3709dcd0-7b42-4c62-abed-a495f15b4e08" />
 <img width="4096" height="2160" alt="3" src="https://github.com/user-attachments/assets/9f6208b9-833e-4f65-b33c-1b326ae2c52d" />
 
-# 🐉 DragonUI v2.6 – TwinStar Edition (MoP 5.4.8 | Helios / Persés)
+# 🐉 DragonUI v2.7 – TwinStar Edition (MoP 5.4.8 | Helios / Persés)
 
 **DragonUI** is a modern, clean, and lightweight Retail **Dragonflight-style** user interface overhaul backported and specifically tuned for **TwinStar WoW — Mists of Pandaria 5.4.8 (Helios & Persés)**.
 
@@ -51,7 +51,7 @@
 > [!WARNING]
 > **DO NOT download via the green `<> Code -> Download ZIP` button!** GitHub renames the folder to `DragonUI-main`, which prevents WoW from loading the addon properly.
 
-1. Go to the Latest Release page: https://github.com/Bulbasaur-TwinStar/DragonUI/releases/tag/v2.6 and download **`DragonUI-TwinStar.zip`** under **Assets**.
+1. Go to the Latest Release page: https://github.com/Bulbasaur-TwinStar/DragonUI/releases/tag/v2.7 and download **`DragonUI-TwinStar.zip`** under **Assets**.
 2. Extract the `.zip` archive.
 3. Delete any older `DragonUI` and `DragonUI_Options` folders inside `World of Warcraft\Interface\AddOns\` *(your saved profiles in the `WTF` folder will remain safe)*.
 4. Copy both **`DragonUI`** and **`DragonUI_Options`** folders directly into `World of Warcraft\Interface\AddOns\`.
