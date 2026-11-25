@@ -1,4 +1,4 @@
-<img width="4096" height="2160" alt="dragonui_v27_screen_1" src="https://github.com/user-attachments/assets/3ddcd64c-f285-49ca-ab3f-b5b3bdb8af00" />
+<img width="4096" height="2160" alt="dragonui_v27_screen_1_new" src="https://github.com/user-attachments/assets/ce7c18ae-6890-4a74-9aa3-f274af60cbf6" />
 <img width="4096" height="2160" alt="dragonui_v27_screen_2" src="https://github.com/user-attachments/assets/f72b96d0-d722-4909-ab47-5fdc9c04708f" />
 <img width="4096" height="2160" alt="3" src="https://github.com/user-attachments/assets/9f6208b9-833e-4f65-b33c-1b326ae2c52d" />
 
